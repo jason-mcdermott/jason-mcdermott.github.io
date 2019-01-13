@@ -1,0 +1,22 @@
+---
+layout: post
+title: Hello World
+---
+
+This is my first blog post. Ever.
+
+How did I get here? No, I'm not asking "where do babies come from?" (although that might be an entertaining blog post). Rather, how did I get to the place where I am today, sitting at my desk writing the first post of what I hope will be a thoughtful, entertaining technical blog? 
+
+<!-- I'm guessing you found this site in the same way that rabbit holes open up all over the internet and keystrokes lead to unforeseen locations and  -->
+
+Let me start by introducing myself. My name is Jason McDermott and I've been working in technology in some capacity for the past 10 years. I studied Painting/Printmaking and Cello Performance as an undergraduate and then moved to Chicago to pursue a Masters in Music at DePaul University. I gigged around Chicagoland during my time at DePaul and after, and gave private lessons at the [Old Town School of Folk Music](https://www.oldtownschool.org/) and the [Chicago School of Music](http://www.chicagoschoolofmusic.com). But probably the best gig I ever had was performing original music for the adaptation of Haruki Murakami's _After the Quake_, developed at [Steppenwolf Theater](https://www.steppenwolf.org/tickets--events/seasons/200506/after-the-quake/) and later staged at [Long Wharf Theatre](https://www.longwharf.org/2005-2008), the [La Jolla Playhouse](https://lajollaplayhouse.org/who-we-are/about-the-playhouse/production-history/) and the [Berkeley Repertory](https://www.berkeleyrep.org/season/0708/2099.asp#tabbed-nav=bios) theater.
+
+In 2007 I moved to Barcelona and lived there off-and-on for two years, but came back to Chicago after the economic meltdown of '08 made living in Europe as an expat untenable. In Spain I had started to dip my toes in the muddy waters of technology, first just trying to stand up my own website, then doing some Flash animations (_do you remember Flash? do you remember Flash websites?_ for your sake, I hope _not_) and then some website administration for a non-profit. When I came back to Chicago in 2009 I got an entry-level position doing product support and custom development for a Learning Analytics company. (They had been a startup in 1999 and survived the tech bubble of 2000. They have since been acquired by [CEB](https://www.cebglobal.com/welcome-to-ceb.html), [Gartner](https://www.gartner.com/en) and most recently [Explorance](https://explorance.com/products/metrics-that-matter/)). Basically, for the first two years I wrote a lot of SQL and had to troubleshoot _a lot_ of SSIS packages (_shudder_). However, I was really lucky to work with some amazing software engineers who were patient with me and willing to help me learn their craft. 
+
+During this time, I spent many nights and weekends (and most of my ['L'](https://en.wikipedia.org/wiki/Chicago_%22L%22) commutes) either reading books about programming, watching videos about programming, or writing small programs myself (I lived near the end of the Brown Line, so I almost always got a seat. Otherwise this would not have been possible!) This is essentially how I learned C# and JavaScript (I also took three courses from O'Reilly Safari Online, which sadly no longer exists. It was a predecessor to MOOC's. These courses were online, instructor-facilitated and they really helped solidify my understanding of both languages). The rest I learned on the job. This hasn't actually changed much; I don't program so much on the 'L' train anymore, but I do tend to read and watch as much as I can about technology. There's still so much to learn!
+
+And you - how did _you_ get here? I have no idea. Perhaps you thought this was going to be some interior design website with pretty pictures of mid-centry modern homes and gardens. Perhaps, _one day_...
+
+I'm planning to use this blog as a repository to document things I've learned and to "think out loud" about the technical challenges I face on a day-to-day basis. I'm hoping that by its very existence, it will stimulate me to perhaps even think about things differently. And hopefully, some of these posts may help others facing similar issues - or at the very least entertain the few who might stop by.
+
+If you're still reading this, _thank you_, and please do stay tuned for future posts!
